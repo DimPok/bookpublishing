@@ -1,0 +1,1 @@
+This is a complete landing page for organizations that publish and sell books, as well as promote novice author. It was written in pure HTML, mobile & seo ready. If you want to use it, you can change the pictures and text to your own, as well as insert your own links
